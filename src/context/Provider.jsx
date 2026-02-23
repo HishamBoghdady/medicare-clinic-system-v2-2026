@@ -1,7 +1,7 @@
 import { BrowserRouter } from "react-router-dom";
 import PatientsProvider from "./Patient/PatientProvider";
 import ThemeProvider from "./ThemeMode/ThemeProvider";
-import AuthProvider from "./auth/authProvider";
+import AuthProvider from "./auth/AuthProvider";
 export default function AppProviders({ children }) {
     return (
         <BrowserRouter>
