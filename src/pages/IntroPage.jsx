@@ -10,7 +10,7 @@ const IntroPage = () => {
       <AppBar position="static" sx={{ background: "#0d6efd" }}>
         <Toolbar sx={{ display: "flex", justifyContent: "space-between" }}>
           <Typography variant="h6" fontWeight="bold">
-            MediCare System
+            MediCare Systemmm
           </Typography>
           <Box>
             <Button color="inherit">Home</Button>
